@@ -133,7 +133,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\libs\glfw\glad\glad.c" />
+    <ClCompile Include="..\..\..\..\libs\glfw\glad\glad.c" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="stb_impl.cpp" />
   </ItemGroup>
